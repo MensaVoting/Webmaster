@@ -1,0 +1,4 @@
+PHP Befehl zum Skript importiere:				include("includefile.php");
+	
+PHP Befehl zum web-content importiere(html)			var $content = file_get_contents("https://www.panther-certificate.com");
+
