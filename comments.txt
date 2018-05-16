@@ -2,3 +2,6 @@ PHP Befehl zum Skript importiere:				include("includefile.php");
 	
 PHP Befehl zum web-content importiere(html)			var $content = file_get_contents("https://www.panther-certificate.com");
 
+PHP split string into string					$pageArray = explode(string $delimiter , string $string);
+							zb.	$pizza  = "Teil1 Teil2 Teil3 Teil4 Teil5 Teil6";
+								$teile = explode(" ", $pizza);
