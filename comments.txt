@@ -5,3 +5,5 @@ PHP Befehl zum web-content importiere(html)			var $content = file_get_contents("
 PHP split string into string					$pageArray = explode(string $delimiter , string $string);
 							zb.	$pizza  = "Teil1 Teil2 Teil3 Teil4 Teil5 Teil6";
 								$teile = explode(" ", $pizza);
+
+JS statistic graphs						http://www.chartjs.org/samples/latest/
