@@ -7,3 +7,6 @@ PHP split string into string					$pageArray = explode(string $delimiter , string
 								$teile = explode(" ", $pizza);
 
 JS statistic graphs						http://www.chartjs.org/samples/latest/
+								https://plot.ly/javascript/
+								https://canvasjs.com/javascript-charts  (live-charts)
+								https://www.amcharts.com/demos/animated-gauge/?theme=dark
